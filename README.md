@@ -1,2 +1,2 @@
-# vuethub
-Just playing around with Github apis and Vue.js
+# Vuthub
+Just playing around with Github APIs and Vue.js
